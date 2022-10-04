@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'mA new graduate from Applied Foreign Languages at Tatung University with TOEIC and N4 certification. Passionate about doing journaling. In this case, I have been managing a social media page called @alicesdrawing_ on Instagram mainly sharing digital journal templates and graphic design skills. To take my skills up a notch, currently I am participating in a frontend web developer boot camp wishing to be a frontend web developer in the future.
+I'm a new graduate from Applied Foreign Languages at Tatung University with TOEIC and N4 certification. Passionate about doing journaling. In this case, I have been managing a social media page called @alicesdrawing_ on Instagram mainly sharing digital journal templates and graphic design skills. To take my skills up a notch, I participated in a frontend web developer boot camp wishing to be a frontend web developer in the future.
 
 
 ## 🌐 Socials:
